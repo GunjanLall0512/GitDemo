@@ -32,8 +32,7 @@ public class InfosysRound1WebTableHandling {
 				
 				if(strArr.length >1) {
 					System.out.println(country + "- "+Arrays.toString(strArr));
-					System.out.println(country + "- "+Arrays.toString(strArr));
-					System.out.println(country + "- "+Arrays.toString(strArr));
+					
 				}
 				
 				
